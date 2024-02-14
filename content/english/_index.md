@@ -42,8 +42,7 @@ clients_logo_slider:
 homepage_tab:
   enable : false
   title : "What **we do**"
-  content : "We provide an affordable SEO platform that allows you to take control of your organic rankings
-and we're also there to help if you need us."
+  content : "We provide an affordable SEO platform that allows you to take control of your organic rankings and we're also there to help if you need us."
   tablist:
   # tab item
   - name : "Do Keyword Research"
