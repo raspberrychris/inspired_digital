@@ -1,0 +1,40 @@
+############# French navigation ##############
+# main menu
+[[main]]
+name = "Home"
+url = ""
+weight = 1
+
+[[main]]
+name = "Services"
+url = "services/"
+weight = 3
+
+[[main]]
+name = "Blog"
+url = "blog/"
+weight = 5
+
+[[main]]
+name = "Contact"
+url = "contact/"
+weight = 6
+
+
+
+
+# Footer menu
+[[footer]]
+name = "Faq"
+url = "faq/"
+weight = 1
+
+[[footer]]
+name = "Terms & Conditions"
+url = "terms-conditions/"
+weight = 2
+
+[[footer]]
+name = "Privacy Policy"
+url = "privacy-policy/"
+weight = 3
