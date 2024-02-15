@@ -106,7 +106,7 @@ tools:
 ############################## Achivement ##############################
 achivement:
   enable : false
-  title : "Average yearly growth rate **across our clients We able to achive**"
+  title : "Avrage yearly growth rate **across our clients We able to achive**"
   content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed. At vero eos et"
   funfacts:
   - name : "Years Of <br> Experience"
