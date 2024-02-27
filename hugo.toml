@@ -4,7 +4,7 @@
 # The actual configuration files are stored in the `config/_default/` folder.
 
 ######################### site variables ##############################
-baseURL = "/"
+baseURL = "https://inspired-digital-h56a.onrender.com/"
 # customize your color and font from here.
 [params.variables]
 color_primary = "#FF3158"
